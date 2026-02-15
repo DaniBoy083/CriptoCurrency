@@ -14,7 +14,7 @@ export function Footer() {
                     {/* Item 2: link de contato por email */}
                     <li><a href="mailto:danielcostacarvalhomartins06@gmail.com">danielcostacarvalhomartins06@gmail.com</a></li>
                     {/* Item 3: link externo - abre em nova aba e evita vulnerabilidades com rel */}
-                    <li><a href="https://agregadordelinksbydanielcosta.netlify.app" target="_blank" rel="noopener noreferrer">Saiba mais</a></li>
+                    <li><a href="https://devthreebydanielcosta.vercel.app" target="_blank" rel="noopener noreferrer">Saiba mais</a></li>
                 </ol>
             </div>
         </footer>
